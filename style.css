@@ -54,7 +54,8 @@ a {
 a:hover {
   font-weight: 700;
 }
-.education li {
+.education li,
+address li {
   list-style-type: none;
 }
 p {
