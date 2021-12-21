@@ -30,3 +30,10 @@ function highAndLow(numbers) {
 	return `${max} ${min}`;
 }
 ```	
+6. Work experience: 
+* [HTML-Academy](https://htmlacademy.ru/)
+* [Wildlife](https://despetrikov.github.io/wildlife/index.html)
+* [Museum](https://rolling-scopes-school.github.io/despetrikov-JSFE2021Q3/museum-dom/)
+
+7. Education: Belarussian National Technical University. Mining machinery and equipment. 
+8. English level: A2. 
