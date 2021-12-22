@@ -346,7 +346,7 @@ template {
           box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: "Roboto", cursive;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
@@ -389,7 +389,7 @@ body._lock {
 }
 
 .content-wrapper__header .header__list .nav__link {
-  font-family: "Roboto", cursive;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 22px;
   line-height: 18px;
@@ -426,7 +426,7 @@ body._lock {
 }
 
 .content-wrapper__contacts .contacts-list .contacts-list__title {
-  font-family: "Roboto", cursive;
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 48px;
   line-height: 54px;
@@ -437,7 +437,7 @@ body._lock {
 }
 
 .content-wrapper__contacts .contacts-list .contacts-list__subtitle {
-  font-family: "Roboto", cursive;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 32px;
   line-height: 38px;
@@ -489,7 +489,7 @@ body._lock {
   z-index: 0;
   margin-bottom: 45px;
   margin-top: 60px;
-  font-family: "Roboto", cursive;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 32px;
   line-height: 22px;
@@ -609,7 +609,7 @@ body._lock {
 }
 
 .content-wrapper__footer time {
-  font-family: "Roboto", cursive;
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 20px;
   line-height: 22px;

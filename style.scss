@@ -13,7 +13,7 @@
 	box-sizing: border-box;
 	padding: 0;
 	margin: 0;
-	@include textStyle('Roboto',cursive ,400 ,18px ,22px , normal );
+	@include textStyle('Roboto', sans-serif ,400 ,18px ,22px , normal );
 }
 body._lock{
 	overflow: hidden;
@@ -43,7 +43,7 @@ body._lock{
 		padding-top: 30px;
 		padding-bottom: 20px;
 		.nav__link {
-			@include textStyle('Roboto',cursive ,400 ,22px ,18px , normal );
+			@include textStyle('Roboto',sans-serif ,400 ,22px ,18px , normal );
 			color: #2AAEE7;
 			text-decoration: none;
 			&:hover,
@@ -69,12 +69,12 @@ body._lock{
 	}
 	.contacts-list{
 		.contacts-list__title {
-			@include textStyle('Roboto',cursive ,700 ,48px ,54px , normal );
+			@include textStyle('Roboto',sans-serif ,700 ,48px ,54px , normal );
 			color: #2AAEE7;
 			margin-top: 0;
 		}
 		.contacts-list__subtitle {
-			@include textStyle('Roboto',cursive ,400 ,32px ,38px , normal );
+			@include textStyle('Roboto',sans-serif ,400 ,32px ,38px , normal );
 			margin-bottom: 50px;
 		}
 		address {
@@ -119,7 +119,7 @@ body._lock{
 	z-index: 0;
 	margin-bottom: 45px;
 	margin-top: 60px;
-	@include textStyle('Roboto',cursive ,400 ,32px ,22px , 2px );
+	@include textStyle('Roboto',sans-serif ,400 ,32px ,22px , 2px );
 	text-transform: uppercase;
 	color: #2AAEE7;
 }
@@ -217,7 +217,7 @@ body._lock{
 	grid-template-columns: 8fr 1fr 1fr;
 	align-items: center;
 	time{
-		@include textStyle('Roboto',cursive ,700 ,20px ,22px , normal );
+		@include textStyle('Roboto',sans-serif ,700 ,20px ,22px , normal );
 	}
 	
 }
